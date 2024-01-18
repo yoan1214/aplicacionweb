@@ -13,7 +13,7 @@
 <?php
 $servername = "database-1.crm64e0amhu5.us-east-1.rds.amazonaws.com";
 $database = "articulos";
-$username = "admin";
+$username = "yoan";
 $password = "Clase123";
 // Create connection
 $conn = mysqli_connect($servername, $username, $password, $database);
